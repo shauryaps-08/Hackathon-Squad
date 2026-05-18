@@ -4,9 +4,8 @@ This was my solution for the Hackathon Squad problem given by the Coding Club, I
 
 ## What the problem is asking
 
-You have N coders each with a skill rating and some of them refuse to work together. You need to pick a team with the highest possible total skill without including any conflicting pairs.
+You have N coders each with a skill rating M and some of them refuse to work together. You need to pick a team with the highest possible total skill without including any conflicting pairs.
 
-Sounds simple but its actually a really well known hard problem in computer science called Maximum Weight Independent Set. There's no known way to solve it perfectly for large inputs in any reasonable time, so the problem itself says just do your best within 5 minutes.
 
 ## How I approached it
 
